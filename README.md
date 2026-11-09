@@ -61,6 +61,3 @@ Este repositorio contiene el archivo principal de la aplicación:
 4. **WorkManager vs `Timer`:** respeta restricciones (red, batería) y sobrevive al cierre de la app y reinicios; un `Timer` muere con el proceso.
 5. **App cerrada con tarea periódica:** Android sigue ejecutándola y corre el `callbackDispatcher` según el intervalo y restricciones.
 
-## 👤 Autor
-
-Tu nombre · Curso / Institución
